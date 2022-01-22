@@ -1,7 +1,7 @@
 <div align="center">
 
 # Editor.io
-<!-- ## https://editor.soumya-jit.tech/ -->
+## https://editor-io-dusky.vercel.app/
 
 </div>
 
